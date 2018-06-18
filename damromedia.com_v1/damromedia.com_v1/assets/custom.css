@@ -1,0 +1,47 @@
+﻿@media (max-width: 767px) {
+
+
+    .mbr-section-hero .mbr-section-title {
+        font-size: 40px !important;
+
+    }
+    .what_who{
+    font-size: 35px !important;
+}
+    .video_text{
+        font-size:30px !important;
+    }
+    .second_text_opportunity{
+        font-size:30px;
+    }
+    /*#buttons1-y {
+    height:20% !important;*/
+/*}*/
+}
+
+@media (max-width: 991px) {
+    .mbr-arrow {
+        bottom: 13vh !important;
+    }
+}
+
+#popup {
+    background-color:#232323;
+    height:100%;
+    display:none;
+    position: fixed;
+    width: 0;
+    z-index: 30;
+    -webkit-transition: width 3s; /* Safari */
+    transition: width 3s;
+
+}
+
+
+/*#buttons1-y {
+    height:50% !important;
+}
+
+#form2-x {
+    height:50% !important;
+}*/
